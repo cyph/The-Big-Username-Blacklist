@@ -1,8 +1,31 @@
 #
-# Working copy of the username-blacklist (aka make your changes here)
+# Cyph fork of the username-blacklist
 # VERSION=v1.5.3
 #
 
+# cyph
+agse
+baronboehm
+cit
+cyph
+cyph-admin
+cyph-support
+cyph_admin
+cyph_support
+cyphadmin
+cyphsupport
+founders
+joshboehm
+joshua
+joshuaboehm
+joshuacboehm
+mach37
+ryanlester
+websign
+
+
+# custom
+system
 
 # privileges
 abuse

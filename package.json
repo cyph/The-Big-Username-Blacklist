@@ -1,0 +1,18 @@
+{
+	"name": "username-blacklist",
+	"version": "1.0.0",
+	"description": "Username blacklist",
+	"main": "list-commonjs.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/cyph/The-Big-Username-Blacklist.js.git"
+	},
+	"keywords": [
+		"blacklist"
+	],
+	"author": "Cyph, Inc. <username-blacklist@cyph.com> (https://github.com/cyph)",
+	"license": "BSD-2-Clause",
+	"bugs": {
+		"url": "https://github.com/cyph/The-Big-Username-Blacklist/issues"
+	}
+}
